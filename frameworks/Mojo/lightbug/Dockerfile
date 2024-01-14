@@ -44,3 +44,9 @@ RUN echo 'export PATH="$HOME/.modular/pkg/packages.modular.com_mojo/bin:$PATH"' 
 
 WORKDIR /home/$username
 USER $username
+
+# Expose port 8080
+EXPOSE 8080
+
+# Command to start the server with benchmark handler
+CMD cd ./src/lightbug_http && mojo bench.mojo
