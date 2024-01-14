@@ -1,7 +1,0 @@
-# Binaries
-*
-!*.*
-!*/
-*.out
-nimbledeps
-.DS_Store

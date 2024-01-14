@@ -1,5 +1,0 @@
-
-dependencies {
-    api(project(":core"))
-    implementation("io.vertx:vertx-pg-client:$vertxVersion")
-}

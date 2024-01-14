@@ -1,5 +1,0 @@
-micronaut:
-  netty:
-    event-loops:
-      default:
-        prefer-native-transport: true

@@ -1,7 +1,0 @@
-**/_opam
-**/_build
-!**/bin
-.merlin
-.ocamlformat
-_esy
-*.install

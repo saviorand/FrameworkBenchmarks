@@ -1,1 +1,0 @@
-web: java $JVM_OPTS -cp target/hello-duct-standalone.jar clojure.main -m hello.main

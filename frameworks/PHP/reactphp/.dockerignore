@@ -1,5 +1,0 @@
-vendor
-composer.lock
-*.dockerfile
-.dockerignore
-.gitignore

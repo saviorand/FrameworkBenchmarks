@@ -1,7 +1,0 @@
-{
-  "require": {
-    "illuminate/database": "8.16.*",
-    "illuminate/events": "8.16.*",
-    "illuminate/container": "8.16.*"
-  }
-}

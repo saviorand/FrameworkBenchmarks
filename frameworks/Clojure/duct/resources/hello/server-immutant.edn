@@ -1,3 +1,0 @@
-{:duct.server.http/immutant
- {:virtual-host "tfb-server"
-  :host         "0.0.0.0"}}

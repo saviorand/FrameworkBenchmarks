@@ -1,1 +1,0 @@
-{:duct.server.http/jetty {:ssl? false}}
