@@ -69,3 +69,6 @@ benchmark.cfg
 
 # python
 .venv/
+
+# mojo
+.mojoenv
